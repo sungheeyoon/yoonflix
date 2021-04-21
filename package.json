@@ -26,7 +26,7 @@
     "deploy": "gh-pages -d build",
     "predeploy": "yarn run build"
   },
-  "homepage": "https://sungheeyoon.github.io/yoonflix",
+  "homepage": "https://sungheeyoon.github.io/yoonflix/",
   "eslintConfig": {
     "extends": [
       "react-app",
