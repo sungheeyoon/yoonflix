@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/yoonflix/static/js/main.37351d83.chunk.js",
+    "main.js.map": "/yoonflix/static/js/main.37351d83.chunk.js.map",
+    "runtime-main.js": "/yoonflix/static/js/runtime-main.2cc2007b.js",
+    "runtime-main.js.map": "/yoonflix/static/js/runtime-main.2cc2007b.js.map",
+    "static/js/2.314f0838.chunk.js": "/yoonflix/static/js/2.314f0838.chunk.js",
+    "static/js/2.314f0838.chunk.js.map": "/yoonflix/static/js/2.314f0838.chunk.js.map",
+    "index.html": "/yoonflix/index.html",
+    "static/js/2.314f0838.chunk.js.LICENSE.txt": "/yoonflix/static/js/2.314f0838.chunk.js.LICENSE.txt",
+    "static/media/noPoster.d62f7a01.png": "/yoonflix/static/media/noPoster.d62f7a01.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2cc2007b.js",
+    "static/js/2.314f0838.chunk.js",
+    "static/js/main.37351d83.chunk.js"
+  ]
+}
